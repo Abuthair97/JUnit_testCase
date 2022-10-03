@@ -13,6 +13,8 @@ class ProductTest {
 
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
+		
+		
 	}
 
 	@AfterAll
