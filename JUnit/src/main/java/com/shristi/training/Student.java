@@ -15,6 +15,8 @@ public class Student {
 	    
 	}
 	public String getGrade(int[] marks) throws NegValueException {
+		
+		
 		int sum = 0;
 		int avg =0;
 		
